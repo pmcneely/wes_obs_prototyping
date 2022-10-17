@@ -1,0 +1,3 @@
+[submodule "obs-scene-transporter"]
+	path = obs-scene-transporter
+	url = git@github.com:pmcneely/obs-scene-transporter.git
